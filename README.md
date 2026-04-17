@@ -34,8 +34,7 @@ Here you will find projects that reflect my learning journey and my passion for 
 <!--<h3>GitHub Stats</h3>
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vickxaraujo-bot&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=5230d0&text_color=FFF&border_radius=3&border_color=5230d0&icon_color=5230d0&theme=jolly)
-[![Most Used Technologies](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vickxaraujo-bot&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=5230d0&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=5230d0&count_private=true)](https://github.com/vickxaraujo-bot/vickxaraujo-bot)
-<br>-->
+
 
 
 <div align="center">

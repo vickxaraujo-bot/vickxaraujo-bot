@@ -10,7 +10,7 @@ Here you will find projects that reflect my learning journey and my passion for 
 
 <h3 align="left">My Stack</h3>
 
-<table>
+<table style="border: 2px solid #00BFFF; border-radius: 10px; padding: 10px;">
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></td>
     <td><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="50"/></td>

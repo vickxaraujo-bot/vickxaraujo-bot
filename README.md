@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=300&color=1976D2&random=false&width=435&height=40&lines=Hi,+I'm+Victória+Araújo!)](https://git.io/typing-svg)
 
 <p align="left">
-A student of Market Intelligence and Data Analysis, passionate about transforming data into insights that support business decisions. I enjoy working with Excel, Power BI, Python, and SQL, and I'm always improving my analytical and technical skills.
+I'm a graduate in Market Intelligence and Data Analysis and currently studying Software Engineering. I'm passionate about transforming data into insights that support business decisions. I enjoy working with Excel, Power BI, Python, and SQL, and I'm always improving my analytical and technical skills.
+
   <br><br>
 Here you will find projects that reflect my learning journey and my passion for understanding data and solving problems.
 </p>
